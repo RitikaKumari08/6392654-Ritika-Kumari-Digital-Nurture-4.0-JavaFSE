@@ -2,7 +2,7 @@
 This repository contains solutions to all assignments from the Cognizant Digital Nurture 4.0 Full Stack Engineer (Java) training program. Each solution is organized by module and includes well-documented code, following best practices in Java programming.
 
 # WEEK-1(JavaFSE-DeepSkilling).
-Algorithms_Data Structures(Solution folder).
+# Algorithms_Data Structures(Solution folder).
       Algorithms_Data Structures.pdf.
       E-CommercePlatformSearchInput.
           E-CommercePlatformSearchInput.java.
@@ -12,7 +12,7 @@ Algorithms_Data Structures(Solution folder).
           FinancialForecasting_OUTPUT(Image).
 
           
-Design Pattern and Principles(Solution folder).
+# Design Pattern and Principles(Solution folder).
        Design Pattern and Principles.pdf.
        FactoryMethodPatternExample.
           Document.java.
