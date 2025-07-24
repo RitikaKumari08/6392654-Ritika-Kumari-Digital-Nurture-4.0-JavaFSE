@@ -1,0 +1,27 @@
+.box {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  box-shadow: 0 0 5px #ddd;
+}
+
+dt {
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+.ongoing {
+  color: green;
+}
+
+.scheduled {
+  color: blue;
+}
+
+.completed {
+  color: gray;
+}
