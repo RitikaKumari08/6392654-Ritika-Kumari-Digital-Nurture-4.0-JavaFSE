@@ -1,0 +1,31 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.st2 {
+  background-color: #e0f7fa;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.v1 {
+  background-color: #f3e5f5;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.mystyle1 {
+  background-color: #fff9c4;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.btns button {
+  margin-right: 10px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
